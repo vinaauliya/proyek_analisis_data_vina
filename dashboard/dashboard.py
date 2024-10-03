@@ -27,7 +27,7 @@ def create_daily_users_df(df):
     return daily_users_df
 
 # Load data
-hour_df = pd.read_csv("all_data.csv")
+hour_df = pd.read_csv("dashboard/all_data.csv")
 
 
 # Membuat header
