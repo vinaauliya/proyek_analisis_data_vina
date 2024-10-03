@@ -1,6 +1,6 @@
-#Bike Sharing ✨
+# Bike Sharing ✨
 
-##Setup Environment - shell/terminal
+## Setup Environment - shell/terminal
 ```
 mkdir proyek_analisis_data_vina
 cd proyek_analisis_data_vina
